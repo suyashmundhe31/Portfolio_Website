@@ -28,7 +28,7 @@ Visit the live website: [https://suyashmundheportfoliowebsite.web.app](https://s
 
 ```
 Portfolio_Website/
-├── .firebase/          # Firebase configuration
+├── .firebase/         # Firebase configuration
 ├── dist/              # Production build files
 ├── node_modules/      # Dependencies
 ├── src/               # Source code
